@@ -57,21 +57,26 @@ body {
   border-radius: 20px;
   border: none;
   cursor: pointer;
-  font-weight: 600;
+
   transition: background-color 0.3s;
 }
 
 .entrar {
   background: linear-gradient(to right, #2C8BCA, #79BF45, #FDB215, #F68223, #F13C29, #EF579F);
   color: #fff;
-  font-family: 'Raleway', sans-serif;
-  font-weight:bold;
+  font-family: 'Noto Sans', sans-serif;
+
+  padding: 10px 20px;
+  font-size: 1em;
 }
 
 .criar-conta {
   background-color: #e0e0e0;
   color: #000000;
-  font-weight: bold;
+  
+  padding: 10px 20px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1em;
 }
 
 /* Container Principal */
